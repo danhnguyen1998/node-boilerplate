@@ -1,0 +1,10 @@
+{
+  "name": "NodeJs Boilerplate",
+  "version": "1.0.0",
+  "description": "NodeJs Boilerplate Document",
+  "title": "NodeJs Boilerplate API",
+  "url": "http://localhost:3000/api/v1",
+  "template": {
+    "forceLanguage": "en"
+  }
+}
